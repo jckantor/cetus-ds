@@ -1,8 +1,14 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
+
+parts:
+  - caption: Sesssions
+    numbered: true
+    chapters:
+    - file: notebooks/01.md
+    - file: notebooks/02.md
+    - file: notebooks/03.md
+    - file: notebooks/04.md
+    - file: notebooks/05.md
+    - file: notebooks/06.md
+    - file: notebooks/07.md    
