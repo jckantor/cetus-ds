@@ -1,4 +1,4 @@
-# Data Science and its Applications
+ # Data Science and its Applications
 
 ## Description
 
