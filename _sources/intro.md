@@ -24,7 +24,7 @@ With guided study, these notebooks will show you how to get started in working w
 
 4. **Probability and Inference.**
 
-    Data is often gathered from experiments to answer specific questions. For example, does product A work better than product B? Does a shipment of parts meet quality requirements? Is a process running correctly? To help answer questions like these,  this set of notebooks present an overview of statistical concepts of conditional probability, Bayes's Theorem, random variables and probability distributions, and hypothesis testing. The notebooks will show how politics, science and business use statistical concepts in controlled A/B testing experiments.
+    Data is often gathered from experiments to answer specific questions. For example, does product A work better than product B? Does a shipment of parts meet quality requirements? Is a process running correctly? To answer questions like these, this set of notebooks presents an overview of statistical concepts of probability, conditional probability, Bayes's Theorem, random variables and probability distributions, and hypothesis testing. The notebooks will show how politics, science and business use statistical concepts in controlled A/B testing experiments.
 
 5. **Supervised Machine Learning.**
 
